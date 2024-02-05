@@ -1,3 +1,8 @@
+"""
+This program takes a single word string from a user and 
+Concatenates inator to the end if the word ends with a 
+consonant otherwise, concatenate -inator instead.
+"""
 word = input("Enter the word: ")
 text2 = "inator"
 text3 = len(word)
